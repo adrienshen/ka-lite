@@ -2,6 +2,7 @@ import errno
 import os
 import re
 import shutil
+from fle_utils.collections_local_copy import OrderedDict
 import urllib
 import zipfile
 from collections_local_copy import OrderedDict
